@@ -51,7 +51,6 @@
 - [RoundChickenTON](https://roundchickenton.ru)
 - [GammaChallenge](https://gammachallenge.com)
 - [User Personal Account](https://example-account-operator.vercel.app)
-- [Fast Food Store](https://github.com/VaultBoy9519/fast-food-store)
 - [Farm game](https://www.youtube.com/watch?v=Mc_WZTYdN5k)
 
 ###
