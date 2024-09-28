@@ -40,7 +40,7 @@
 
 ###
 
-- [Fast Food Store](https://github.com/VaultBoy9519/fast-food-store)
+- [Fast Food Store](https://github.com/VaultBoy9519/fast-food-store) ([Site on Vercel](https://fast-food-store-umber.vercel.app/))
 
 ###
 
