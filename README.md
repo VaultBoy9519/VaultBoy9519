@@ -118,7 +118,7 @@
   &nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+      src="assets/express-colored.webp"
       width="36" height="36" alt="Express" />
   </a>
   &nbsp;&nbsp;
@@ -130,7 +130,7 @@
   &nbsp;&nbsp;
   <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
     <img
-      src="assets/prisma.svg"
+      src="assets/prisma.webp"
       width="36" height="36" alt="PrismaOrm" />
   </a>
   &nbsp;&nbsp;
