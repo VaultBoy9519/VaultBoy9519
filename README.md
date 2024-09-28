@@ -30,6 +30,32 @@
 </ul>
 <p align="left">📚 I am constantly learning and refining my skills to stay at the cutting edge of technology.</p>
 
+###
+
+<h3 align="left">💼 My projects</h3>
+
+###
+
+<h5 align="left">Public repositories</h5>
+
+###
+
+- [Fast Food Store](https://github.com/VaultBoy9519/fast-food-store)
+
+###
+
+<h5 align="left">Commercial projects (closed repositories)</h5>
+
+###
+
+- [RoundChickenTON](https://roundchickenton.ru)
+- [GammaChallenge](https://gammachallenge.com)
+- [User Personal Account](https://example-account-operator.vercel.app)
+- [Fast Food Store](https://github.com/VaultBoy9519/fast-food-store)
+- [Farm game](https://www.youtube.com/watch?v=Mc_WZTYdN5k)
+
+###
+
 <p align="center">
   <img width="600" src="assets/github-snake.svg" alt="snake" />
 </p>
