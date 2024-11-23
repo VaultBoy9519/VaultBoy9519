@@ -51,7 +51,6 @@
 - [RoundChickenTON](https://roundchickenton.ru)
 - [GammaChallenge](https://gammachallenge.com)
 - [User Personal Account](https://example-account-operator.vercel.app)
-- [Farm game](https://www.youtube.com/watch?v=Mc_WZTYdN5k)
 
 ###
 
